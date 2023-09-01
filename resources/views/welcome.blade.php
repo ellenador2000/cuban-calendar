@@ -1,7 +1,3 @@
-<?php
-
-session_start();
-?>
 <!DOCTYPE html>  
 <html lang="es"> 
 <head>
@@ -147,18 +143,6 @@ $(document).ready(function() {
 <h1>
 <a href="http://calendariocubano.org"  <span style="text-decoration:none;color:black;">Calendario Cubano...con un 99.99% de discrecion filosofica...</span></a>
 </h1>
-<?php
-
-session_start();
-if($_SESSION['login']=="YES")
-{ 
-  echo "Welcome ". $_SESSION['current_user']."   ";
-  echo  '<a href="logout.php?logout" <span style="text-decoration:none;color:white;font-weight:bold;"> LogOut</span></a>';
-}else{
-  echo '<a href="registrarse1.html" <span style="text-decoration:none;color:white;font-weight:bold;">Registrarse </span></a>&nbsp;&nbsp;<a href="registrarse2.html" <span style="text-decoration:none;color:white;font-weight:bold;"> Iniciar Session</span></a>';
-  }	
-  
-?>
 
 </div>
  </div>
@@ -205,7 +189,7 @@ if($_SESSION['login']=="YES")
 
 <script type="text/javascript" >
 
-   var z = '<?= (int)$_SESSION['user_level'];?>';
+
 
 </script>
 
