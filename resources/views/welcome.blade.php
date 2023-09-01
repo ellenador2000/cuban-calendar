@@ -7,31 +7,14 @@
 <meta name="description" content="Noticias de Cuba y el mundo con un punto de vista personal.Una celebracion fanatica de la diversidad ideologica. Un portal de internet en espanol." />
 <title>Calendario Cubano....con un 99.99% de discrecion filosofica...</title>
  
-<link rel="stylesheet" type="text/css" href="/css/homepage.css">
-<script src="/js/modernizr-latest.js"></script>
+<link rel="stylesheet" href="{{ asset('css/homepag.css') }}">
+
+<script src="{{ asset('/js/ajaxDate.js')}}"></script>
+<script src="{{ asset('/js/ajaxClock.js')}}"></script>
+<script src="{{ asset('/js/jquery.js')}}"></script>
 
 
-
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-28411186-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-<script type="text/javascript" src="/js/jquery.js" > </script>
-<script src="/js/ajaxDate.js" type="text/javascript" ></script>
- <script src="/js/ajaxClock.js" type="text/javascript" ></script>
-
- 
-
-<script type="text/javascript">
+ <script type="text/javascript">
 //<![CDATA[
    function Zodiaco_Current() 
    {
@@ -110,22 +93,10 @@
    
 //]]>  
 </script> 
-<!--
 
-	 
--->
+
  <script type="text/javascript" >
  //<![CDATA[
- /*function start() 
- { 
-   Zodiaco_Current();
-   //callAjaxDate();
-   //callAjaxClock();
-    
-  }
-  window.onload = start;
-  */
- //]]> 
 
 $(document).ready(function() {
   Zodiaco_Current();
@@ -276,18 +247,8 @@ Lo unico nuevo aqui es que antes la ignorancia y la estupidez eran corrientes se
 Calendario Cubano...con un 99.99% de discrecion filosofica...</id>
 </div>
 <div id="result"></div>
-<script>
-/*var result = document.getElementById("result");
-if(Modernizr.audio.controls)
-{
-  result.innerHTML = "Rejoice! Your browser support drag and drop!";
-}
-else
-{
-   result.innerHTML = "Your feeble browserdoes not support drag and drop!";
-}
-*/
-</script>
+
+
 <script type="text/javascript">
  //<![CDATA[
   var image = document.getElementById("fotos");
@@ -305,13 +266,7 @@ function slideit()
 }
  
 var intervalHandler = setInterval(slideit,2500);
-setInterval ( "Zodiaco_Current()", 6000 );
 
-
-// var dateHandler =  setInterval ( "callAjaxDate()", 600 );
-// var clockHandler =  setInterval ( "callAjaxClock()", 600 );
- //clearInterval(dateHandler);
-//clearInterval(clockHandler);
 //]]>  
 </script>
 
