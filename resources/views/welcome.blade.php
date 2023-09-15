@@ -112,7 +112,7 @@ $(document).ready(function() {
 <div id="top">
 <div id="pluton">
 <h1>
-<a href="http://calendariocubano.org"  <span style="text-decoration:none;color:black;">Calendario Cubano...con un 99.99% de discrecion filosofica...</span></a>
+<a href="/"  <span style="text-decoration:none;color:black;">Calendario Cubano...con un 99.99% de discrecion filosofica...</span></a>
 </h1>
 
 </div>
