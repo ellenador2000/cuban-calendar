@@ -129,7 +129,7 @@ $(document).ready(function() {
 </div> 
 
 <div class="planetas">
- <h1>  <a href="/signos/sol.php" > Sol </a></h1>
+ <h1>  <a href="/planetas/sol.php" > Sol </a></h1>
 <p>&nbsp; Volvamos a los "Origenes".<br /> A la epoca de la abundancia.<br />La unica epoca en que la Republica Cubana florecia verdaderamente.<br />Año de 1944,el mundo se caia a pedazos<br />sin embargo,en la Habana,<a href="https://es.wikipedia.org/wiki/Jos%C3%A9_Lezama_Lima" target="blank"> <br />Jose Lezama Lima, </a>  tenia tiempo para algo tan descabellado y ambicioso como crear de la nada , en el Caribe,<br />su sistema poetico del mundo.</p> 
 </div>
  
@@ -144,7 +144,7 @@ $(document).ready(function() {
 </div>
 
 <div class="planetas">
-<h2><a href="http://theamericancalendar.com" > Luna</a></h2>
+<h2><a href="/planetas/luna.php" > Luna</a></h2>
 <p>&nbsp; El llamado Real Estate developer <a href="https://en.wikipedia.org/wiki/Tibor_Hollo" target="_blank">Tibor Hollo,</a> <br />es uno de los principales responsables de la actual <br />belleza del Downtown de Miami, y al mismo tiempo tambien<br />de la estampida hacia los suburbios de sus mas antiguos residentes. <br /> No por casualidad, el esta ahora envuelto en el emblematico negocio de construir, la torre mas alta de la ciudad..</p>
 </div>
 
@@ -165,7 +165,7 @@ $(document).ready(function() {
 </script>
 
 <div class="planetas" >
-<h3> <a  href="/bautismo5.php" > Mercurio </a></h3> 
+<h3> <a  href="/planetas/mercurio.php" > Mercurio </a></h3> 
 <p>&nbsp; El Centro donde todos los caminos convergen  <br />no esta en Times Square </a> sino en Lawton o en Nuevo Vedado.<br />Alli todos los secretos se atan y desatan queramoslo o no<br />y Alfredo Duran le pregunta a los Espiritus <br />si hay respuestas para hoy o si habra que esperar<br /> unos dias mas tarde.</p>
 
 </div>
@@ -181,13 +181,14 @@ $(document).ready(function() {
 </div>
 
 <div class="planetas">
- <h4><a href="/bautismo4.php"> Venus </a></h4>
+ <h4><a href="/planetas/venus.php"> Venus </a></h4>
 <p>&nbsp; No se puede tener una teoria de la Social-Democracia coherente,si vives en la ciudad de Miami.<br />Es necesario haber nacido y crecido en la Isla<br />y despues emigrar a cualquier otro lugar q no sea el Norte,asi como le paso al Profesor <a href="https://es.wikipedia.org/wiki/Rafael_Rojas_Guti%C3%A9rrez" target="_blank"> Rafael Rojas</a>,quien desde su Exilio Mexicano<br /> disfruta,una vision panoramica envidiable.</p>
 </div>
 
 <div class="zodiacoleft">
 <h4><a href="/signos/aries.html" > Aries </a></h4>
-<p>&nbsp;&nbsp;Es muy facil ser Senador en el estado de Florida.<br />Nadie cuestiona tus acciones.<br /> ..y <a href="http://en.wikipedia.org/wiki/Marco_Rubio" target="_blank"> Marco Rubio</a> lo sabe.Por eso se apuro en absolver a Trump durante el Impeachment <br />sabiendo que iba a seguir caminando tranquilamente por la calle 8 como si nada hubiera pasado.</p>
+<p>&nbsp;&nbsp;&nbsp;Un conservadurismo suave, aristocratico,de herencia Burkeana, es el que nos trasmite subliminalmente el periodista  <a href="https://en.wikipedia.org/wiki/Ricardo_Brown_(journalist)" target="_blank">Ricardo Brown.</a> <br />La teoria de la zanahoria.La mayoria silenciosa.<br />Todo es posible, siempre y cuando, Les Républicains se mantengan a las puertas de Paris.</p>
+
 </div>
 
 <div class="zodiacoright">
@@ -197,12 +198,12 @@ $(document).ready(function() {
 </div>
 
 <div class="planetas">
-<h5><a href="/planetas/marte"> Marte </a></h5><p>&nbsp; El periodista y escritor cubano <a href="https://es.wikipedia.org/wiki/Carlos_Alberto_Montaner" target="_blank"> Carlos Alberto Montaner</a> es un tipico representante del pensamiento liberal aunque en este caso estamos hablando de un liberalismo en sentido decimononico.<br /> A diferencia de otros Republicanos, <br />el si supo ubicarse con claridad en el unico lado correcto: <br /> el de los Never Trumpers.</p>
+<h5><a href="/planetas/marte.php"> Marte </a></h5><p>&nbsp; El periodista y escritor cubano <a href="https://es.wikipedia.org/wiki/Carlos_Alberto_Montaner" target="_blank"> Carlos Alberto Montaner</a> es un tipico representante del pensamiento liberal aunque en este caso estamos hablando de un liberalismo en sentido decimononico.<br /> A diferencia de otros Republicanos, <br />el si supo ubicarse con claridad en el unico lado correcto: <br /> el de los Never Trumpers.</p>
 </div>
 
 <div class="zodiacoleft">
 <h4><a href="/signos/piscis.html" > Piscis </a></h4>
-<p>&nbsp;&nbsp;&nbsp;Un conservadurismo suave, aristocratico,de herencia Burkeana, es el que nos trasmite subliminalmente el periodista  <a href="https://en.wikipedia.org/wiki/Ricardo_Brown_(journalist)" target="_blank">Ricardo Brown.</a> <br />La teoria de la zanahoria.La mayoria silenciosa.<br />Todo es posible, siempre y cuando, Les Républicains se mantengan a las puertas de Paris.</p>
+<p>&nbsp;&nbsp;Es muy facil ser Senador en el estado de Florida.<br />Nadie cuestiona tus acciones.<br /> ..y <a href="http://en.wikipedia.org/wiki/Marco_Rubio" target="_blank"> Marco Rubio</a> lo sabe.Por eso se apuro en absolver a Trump durante el Impeachment <br />sabiendo que iba a seguir caminando tranquilamente por la calle 8 como si nada hubiera pasado.</p>
 </div>
 
 <div class="zodiacoright">
@@ -211,7 +212,7 @@ $(document).ready(function() {
 </div>
 
 <div class="planetas">
-<h6><a href="/bautismo2.php" >Jupiter</a></h6>
+<h6><a href="/planetas/jupiter.php" >Jupiter</a></h6>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cuando  <a href="https://es.wikipedia.org/wiki/Gloria_Estefan" target="_blank">Gloria Estefan</a> escribio la cancion "Mi Tierra" ella seguro pensaba en algun lugar de la geografia cubana. <br />Sin embargo, para muchos otros que desde Cuba escuchaban la misma cancion, "su tierra" no tenia nada que ver con la que pisaban sino con aquella otra imaginaria, que a 90 millas en el exilio parecia destinada a guardar celosamente el espiritu originario de la cubaneidad.</p>
 </div>
 
@@ -227,7 +228,7 @@ Lo unico nuevo aqui es que antes la ignorancia y la estupidez eran corrientes se
 
 
 <div id="saturno">
-<p><a href="/bautismo1.php"  > Saturno</a></p>
+<p><a href="/planetas/saturno.html"  > Saturno</a></p>
 <p>&nbsp;El "Singao" de <a href="https://es.wikipedia.org/wiki/Miguel_D%C3%ADaz-Canel" target="_blank" style="color:blue"> Canel</a> <br /> tuvo su bautismo de fuego<br />el 11 de Julio del 2021.<br />Saltandose todo el capitulo del debate ideologico <br />Cuba termina su transicion <br />y se adentra apresuradamente <br />en el campo geopolitico Oriental. </p> 
 <p><a href="#top"> back to top </a></p>
 </div>
