@@ -5,7 +5,7 @@
 <meta name="keywords" content="calendario cubano,noticias,cuba" />
 
 <meta name="description" content="Noticias de Cuba y el mundo con un punto de vista personal.Una celebracion fanatica de la diversidad ideologica. Un portal de internet en espanol." />
-<title>Calendario Cubano....con un 99.99% de discrecion filosofica...</title>
+<title>The American Calendar vs. The Matrix Resurrections...</title>
  
 <link rel="stylesheet" href="{{ asset('css/homepag.css') }}">
 
@@ -112,7 +112,7 @@ $(document).ready(function() {
 <div id="top">
 <div id="pluton">
 <h1>
-<a href="/"  <span style="text-decoration:none;color:black;">Calendario Cubano...con un 99.99% de discrecion filosofica...</span></a>
+<a href="/"  <span style="text-decoration:none;color:black;">The American Calendar vs. The Matrix Resurrections...</span></a>
 </h1>
 
 </div>
@@ -129,8 +129,8 @@ $(document).ready(function() {
 </div> 
 
 <div class="planetas">
- <h1>  <a href="/planetas/sol.php" > Sol </a></h1>
-<p>&nbsp; Volvamos a los "Origenes".<br /> A la epoca de la abundancia.<br />La unica epoca en que la Republica Cubana florecia verdaderamente.<br />Año de 1944,el mundo se caia a pedazos<br />sin embargo,en la Habana,<a href="https://es.wikipedia.org/wiki/Jos%C3%A9_Lezama_Lima" target="blank"> <br />Jose Lezama Lima, </a>  tenia tiempo para algo tan descabellado y ambicioso como crear de la nada , en el Caribe,<br />su sistema poetico del mundo.</p> 
+ <h1>  <a href="/planetas/sol.php" > NEO </a></h1>
+<p>&nbsp; Our favorite movie: Matrix part one.<br /> Our favorite scene: the last one<br />when bullets were stopped in the air and <a href="https://en.wikipedia.org/wiki/Neo_(The_Matrix)" target="blank"> <br />Neo </a><br />finally begins defeating his enemies<br />fighting them without looking to them<br />as if he was meditating.</p> 
 </div>
  
  <div class="zodiacoleft">
@@ -144,8 +144,8 @@ $(document).ready(function() {
 </div>
 
 <div class="planetas">
-<h2><a href="/planetas/luna.php" > Luna</a></h2>
-<p>&nbsp; El llamado Real Estate developer <a href="https://en.wikipedia.org/wiki/Tibor_Hollo" target="_blank">Tibor Hollo,</a> <br />es uno de los principales responsables de la actual <br />belleza del Downtown de Miami, y al mismo tiempo tambien<br />de la estampida hacia los suburbios de sus mas antiguos residentes. <br /> No por casualidad, el esta ahora envuelto en el emblematico negocio de construir, la torre mas alta de la ciudad..</p>
+<h2><a href="/planetas/luna.php" > The Agents</a></h2>
+<p>&nbsp; The American Empire is run from the offices <br /> of the Federal Reserve. <a href="https://en.wikipedia.org/wiki/Alan_Greenspan" target="_blank">Allan Greenspan</a> <br />taught very well to his bureaucrats <br />how to bend the hardest knees<br />just by pressing a few buttons.<br /> ...TINA !!..."there is not alternative"<br /> No matter what...you will end up feeding the beast !!</p>
 </div>
 
 <div class="zodiacoleft">
@@ -165,7 +165,7 @@ $(document).ready(function() {
 </script>
 
 <div class="planetas" >
-<h3> <a  href="/planetas/mercurio.php" > Mercurio </a></h3> 
+<h3> <a  href="/planetas/mercurio.php" > Morpheus </a></h3> 
 <p>&nbsp; El Centro donde todos los caminos convergen  <br />no esta en Times Square </a> sino en Lawton o en Nuevo Vedado.<br />Alli todos los secretos se atan y desatan queramoslo o no<br />y Alfredo Duran le pregunta a los Espiritus <br />si hay respuestas para hoy o si habra que esperar<br /> unos dias mas tarde.</p>
 
 </div>
@@ -181,7 +181,7 @@ $(document).ready(function() {
 </div>
 
 <div class="planetas">
- <h4><a href="/planetas/venus.php"> Venus </a></h4>
+ <h4><a href="/planetas/venus.php"> The Oracle </a></h4>
 <p>&nbsp; No se puede tener una teoria de la Social-Democracia coherente,si vives en la ciudad de Miami.<br />Es necesario haber nacido y crecido en la Isla<br />y despues emigrar a cualquier otro lugar q no sea el Norte,asi como le paso al Profesor <a href="https://es.wikipedia.org/wiki/Rafael_Rojas_Guti%C3%A9rrez" target="_blank"> Rafael Rojas</a>,quien desde su Exilio Mexicano<br /> disfruta,una vision panoramica envidiable.</p>
 </div>
 
@@ -198,7 +198,7 @@ $(document).ready(function() {
 </div>
 
 <div class="planetas">
-<h5><a href="/planetas/marte.php"> Marte </a></h5><p>&nbsp; El periodista y escritor cubano <a href="https://es.wikipedia.org/wiki/Carlos_Alberto_Montaner" target="_blank"> Carlos Alberto Montaner</a> es un tipico representante del pensamiento liberal aunque en este caso estamos hablando de un liberalismo en sentido decimononico.<br /> A diferencia de otros Republicanos, <br />el si supo ubicarse con claridad en el unico lado correcto: <br /> el de los Never Trumpers.</p>
+<h5><a href="/planetas/marte.php"> The Architect</a></h5><p>&nbsp; El periodista y escritor cubano <a href="https://es.wikipedia.org/wiki/Carlos_Alberto_Montaner" target="_blank"> Carlos Alberto Montaner</a> es un tipico representante del pensamiento liberal aunque en este caso estamos hablando de un liberalismo en sentido decimononico.<br /> A diferencia de otros Republicanos, <br />el si supo ubicarse con claridad en el unico lado correcto: <br /> el de los Never Trumpers.</p>
 </div>
 
 <div class="zodiacoleft">
@@ -212,7 +212,7 @@ $(document).ready(function() {
 </div>
 
 <div class="planetas">
-<h6><a href="/planetas/jupiter.php" >Jupiter</a></h6>
+<h6><a href="/planetas/jupiter.php" >Trinity</a></h6>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cuando  <a href="https://es.wikipedia.org/wiki/Gloria_Estefan" target="_blank">Gloria Estefan</a> escribio la cancion "Mi Tierra" ella seguro pensaba en algun lugar de la geografia cubana. <br />Sin embargo, para muchos otros que desde Cuba escuchaban la misma cancion, "su tierra" no tenia nada que ver con la que pisaban sino con aquella otra imaginaria, que a 90 millas en el exilio parecia destinada a guardar celosamente el espiritu originario de la cubaneidad.</p>
 </div>
 
@@ -228,8 +228,8 @@ Lo unico nuevo aqui es que antes la ignorancia y la estupidez eran corrientes se
 
 
 <div id="saturno">
-<p><a href="/planetas/saturno.html"  > Saturno</a></p>
-<p>&nbsp;El "Singao" de <a href="https://es.wikipedia.org/wiki/Miguel_D%C3%ADaz-Canel" target="_blank" style="color:blue"> Canel</a> <br /> tuvo su bautismo de fuego<br />el 11 de Julio del 2021.<br />Saltandose todo el capitulo del debate ideologico <br />Cuba termina su transicion <br />y se adentra apresuradamente <br />en el campo geopolitico Oriental. </p> 
+<p><a href="/planetas/saturno.html"  > The Matrix</a></p>
+<p>&nbsp; <a href="https://en.wikipedia.org/wiki/Vladimir_Putin" target="_blank" style="color:blue"> Vladimir Putin</a> <br /> ,is a faithful follower <br />of the Werstern tradition of thougth<br />known as a Realpolitik. <br />This tradition, skipping all ethics,proclaims<br /> that only the balance of power between nations matters.<br />If now this in the hands of Russians seems cruel,<br /> the reality is that it always was.</p> 
 <p><a href="#top"> back to top </a></p>
 </div>
 
@@ -245,7 +245,7 @@ Lo unico nuevo aqui es que antes la ignorancia y la estupidez eran corrientes se
 
 </div>
 <id id="footer" style="color:black;clear:both;text-align:center;">
-Calendario Cubano...con un 99.99% de discrecion filosofica...</id>
+  The American Calendar vs. The Matrix Resurrections...</id>
 </div>
 <div id="result"></div>
 
