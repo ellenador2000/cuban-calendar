@@ -134,13 +134,14 @@ $(document).ready(function() {
 </div>
  
  <div class="zodiacoleft">
-<h4><a href="/signos/cancer.html" > Cancer </a></h4>
+<h4><a href="/signos/cancer.html" > Smith#11 </a></h4>
 <p>&nbsp;&nbsp;Si tu crias a un cubano en Texas<br />probablemente saldra algo como<br /><a href="https://es.wikipedia.org/wiki/Ted_Cruz"> Ted Cruz.</a> El ya se siente raptado por Dios <br /> muy lejos de todo pensamiento liberal<br /> y muy lejos del sentido comun.</p>
 </div>
 
 <div class="zodiacoright">
-<h4><a href="/signos/leo.html" > Leo </a></h4>
-<p>&nbsp;&nbsp;El ciudadano español Alvaro Lopez Tardon,ha sido condenado en Miami, nada menos que a 150 años de prision. El era buscado en su pais como el mas sanguinario narcotraficante.Sin embargo en un lujoso apartamento de South Beach habia encontrado refugio<br /> rodeado de Bugattis y Ferraris.</p>
+<h4><a href="/signos/leo.html" > Smith#12 </a></h4>
+<p>&nbsp;&nbsp;Spanish citizen Alvaro Lopez Tardon has been sentenced in Miami to no less than 150 years in prison. He was wanted in his country as the most bloodthirsty drug trafficker. However, in a luxurious apartment in South Beach he had found refuge,<br />
+  surrounded by Bugattis and Ferraris.</p>
 </div>
 
 <div class="planetas">
@@ -149,12 +150,12 @@ $(document).ready(function() {
 </div>
 
 <div class="zodiacoleft">
-<h4><a href="/signos/geminis.html" > Geminis</a></h4>
+<h4><a href="/signos/geminis.html" > Smith#9</a></h4>
 <p>Cuando ocurrio  la sucesion<br /> algunos depositaron sus esperanzas en el.Otros no.<br /> Algo se movio en la Habana en los ultimos años pero<br /> los hechos prueban que para <a href="http://es.wikipedia.org/wiki/Ra%C3%BAl_Castro" target="_blank" >Raul Castro </a>las tan esperadas Reformas nunca deberan suplantar la Revolucion.</p> 
 </div>
 
 <div class="zodiacoright">
-<h4><a href="/signos/virgo.html" > Virgo </a></h4>
+<h4><a href="/signos/virgo.html" > Smith#10 </a></h4>
 <p>&nbsp;&nbsp;&nbsp;"La era esta pariendo un corazon,no puede mas se <br />muere de dolor..."<br />De tanto darle a la lata la era finalmente pario.<br />Pero no exactamente lo que en los romanticos sesentas soñara <a href="http://es.wikipedia.org/wiki/Silvio_Rodriguez" target="_blank"> Silvio</a>,sino al reves.Como cuando el lado izquierdo del cerebro controla el lado derecho del cuerpo y viceversa.</p>
 </div>
 
@@ -171,12 +172,15 @@ $(document).ready(function() {
 </div>
 
 <div class="zodiacoleft">
-<h4><a href="/signos/tauro.html" > Tauro </a></h4>
-<p>&nbsp;Algunos ahora pueden vivir en real time <br />sus teorias conspiratorias favoritas.<br />Algunos otros ahora tienen su guerra comercial con China.<br /><a href="https://es.wikipedia.org/wiki/Mitch_McConnell " target="blank"> Mitch McConnell </a> tiene sus jueces baratos.</p>
+<h4><a href="/signos/tauro.html" > Smith#7 </a></h4>
+<p>&nbsp;Some can now live in real time
+  their favorite <br />conspiracy theories.<br />
+  Some others now have their trade war with China.
+ <br /><a href="https://en.wikipedia.org/wiki/Mitch_McConnell" target="blank"> Mitch McConnell </a> has his cheap judges.</p>
 </div>
 
 <div class="zodiacoright">
-<h4><a href="/signos/libra.html" > Libra </a></h4>
+<h4><a href="/signos/libra.html" > Smith#8 </a></h4>
 <p>El 1 de enero de 1959,<a href="http://es.wikipedia.org/wiki/Fidel_Castro" target="_blank"> Fidel Castro </a>tomo el control <br />del&nbsp;poder en Cuba e implanto un sistema dictatorial que <br />se ha mantenido intacto por mas de 50 años.<br /> Medio siglo es mas que suficiente para probar un <br />hecho historico consumado.</p>
 </div>
 
@@ -186,42 +190,40 @@ $(document).ready(function() {
 </div>
 
 <div class="zodiacoleft">
-<h4><a href="/signos/aries.html" > Aries </a></h4>
+<h4><a href="/signos/aries.html" > Smith#5 </a></h4>
 <p>&nbsp;&nbsp;&nbsp;Un conservadurismo suave, aristocratico,de herencia Burkeana, es el que nos trasmite subliminalmente el periodista  <a href="https://en.wikipedia.org/wiki/Ricardo_Brown_(journalist)" target="_blank">Ricardo Brown.</a> <br />La teoria de la zanahoria.La mayoria silenciosa.<br />Todo es posible, siempre y cuando, Les Républicains se mantengan a las puertas de Paris.</p>
 
 </div>
 
 <div class="zodiacoright">
-<h4><a href="/signos/escorpion.html" > Escorpion </a></h4>
+<h4><a href="/signos/escorpion.html" > Smith#6 </a></h4>
  Producto de una fusion entre la cultura empresarial disruptora de Silicon Valley <br /> y la filosofia libertaria al borde de la ley de su fundador
  <a href="https://es.wikipedia.org/wiki/Travis_Kalanick" target="_blank">Travis Kalanick</a>, Uber Technologies,Inc ha estado sirviendo ultimamente como fuente de trabajo para todo un ejercito de choferes independientes.<br /><br />
 </div>
 
 <div class="planetas">
-<h5><a href="/planetas/marte.php"> The Architect</a></h5><p>&nbsp; El periodista y escritor cubano <a href="https://es.wikipedia.org/wiki/Carlos_Alberto_Montaner" target="_blank"> Carlos Alberto Montaner</a> es un tipico representante del pensamiento liberal aunque en este caso estamos hablando de un liberalismo en sentido decimononico.<br /> A diferencia de otros Republicanos, <br />el si supo ubicarse con claridad en el unico lado correcto: <br /> el de los Never Trumpers.</p>
+<h5><a href="/planetas/marte.php"> The Architect</a></h5><p>&nbsp; The American journalist and writer  <a href="https://en.wikipedia.org/wiki/Joe_Scarborough" target="_blank"> Joe Scarborough</a> is a typical representative of liberal thought, although in this case we are talking about liberalism in the nineteenth-century sense.<br /> Unlike other Republicans, <br /> he did know how to place himself clearly on the only correct side:<br /> of The Never Trumpers.</p>
 </div>
 
 <div class="zodiacoleft">
-<h4><a href="/signos/piscis.html" > Piscis </a></h4>
-<p>&nbsp;&nbsp;Es muy facil ser Senador en el estado de Florida.<br />Nadie cuestiona tus acciones.<br /> ..y <a href="http://en.wikipedia.org/wiki/Marco_Rubio" target="_blank"> Marco Rubio</a> lo sabe.Por eso se apuro en absolver a Trump durante el Impeachment <br />sabiendo que iba a seguir caminando tranquilamente por la calle 8 como si nada hubiera pasado.</p>
+<h4><a href="/signos/piscis.html" > Smith#3 </a></h4>
+<p>&nbsp;&nbsp;It is very easy to be a Senator in the state of Florida.<br />Nobody questions your actions.<br /> ..and <a href="https://en.wikipedia.org/wiki/Marco_Rubio" target="_blank"> Marco Rubio</a> knows it.That's why he rushed to acquit Trump during the Impeachment process <br />knowing that he was going to continue walking calmly down 8th Street as if nothing had happened.</p>
 </div>
 
 <div class="zodiacoright">
-<h4><a href="/signos/sagitario.html" > Sagitario </a></h4>
+<h4><a href="/signos/sagitario.html" > Smith#4 </a></h4>
 <p>&nbsp;&nbsp;&nbsp;El blog de Yoani Sanchez fue bastante popular desde el año 2008 hasta alrededor del 2013 cuando abruptamente empezo a perder interes. Si el gobierno cubano no esta acusandola de ser financiada por <a href="https://es.wikipedia.org/wiki/George_Soros" target="_blank"> George Soros</a>, debe ser porque en Cuba la CIA es mas popular que el fundador de Quantum Fund  y de la Open Society. </p>
 </div>
 
 <div class="planetas">
 <h6><a href="/planetas/jupiter.php" >Trinity</a></h6>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cuando  <a href="https://es.wikipedia.org/wiki/Gloria_Estefan" target="_blank">Gloria Estefan</a> escribio la cancion "Mi Tierra" ella seguro pensaba en algun lugar de la geografia cubana. <br />Sin embargo, para muchos otros que desde Cuba escuchaban la misma cancion, "su tierra" no tenia nada que ver con la que pisaban sino con aquella otra imaginaria, que a 90 millas en el exilio parecia destinada a guardar celosamente el espiritu originario de la cubaneidad.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The  <a href="https://en.wikipedia.org/wiki/Catherine,_Princess_of_Wales" target="_blank">Duchess of Cambridge</a> dominates very well<br /> the covers of Vanity Fair! <br />By just following the seemingly chaotic cycle of photos, one can stay updated all the time on multiple kind of things like what will be the best clothes to wear next summer or what would be the best age to take our children to Disneyland.</p>
 </div>
 
 <div class="zodiacoright">
-<h4><a href="/signos/capricornio.html" > Capricornio</a></h4>
-<p>&nbsp;Con  <a href="https://en.wikipedia.org/wiki/Alexander_Otaola" target="_blank"> Alexander Otaola</a> no tenemos nada novedoso. <br /> 
-Es la misma vieja fauna de Vigilia Mambisa q antes rompia Discos en las calles
-y ahora aparece reciclada desde YouTube.
-Lo unico nuevo aqui es que antes la ignorancia y la estupidez eran corrientes secundarias<br /> y ahora son mainstream.</p>
+<h4><a href="/signos/capricornio.html" > Smith#2</a></h4>
+<p>&nbsp; <a href="https://en.wikipedia.org/wiki/Donald_Trump" target="_blank"> Donald Trump</a>  is the most popular person at Sunday barbecues in the suburbs of any big US city. <br /> 
+  After the third beer he is declared president by large majorities.<br /> Welcome hate and stupidity! <br />Welcome to the end of American democracy!</p>
 </div>
 
 
@@ -234,8 +236,8 @@ Lo unico nuevo aqui es que antes la ignorancia y la estupidez eran corrientes se
 </div>
 
 <div class="zodiacoleft">
-<h4><a href="/signos/acuario.html" > Acuario </a></h4>
-<p>&nbsp;&nbsp;&nbsp;El proximo 4 de Mayo,todos los Monarquicos<br /> nostalgicos del Ancien Regime de la Nueva España, <br />se reuniran en la Comunidad de Madrid para rendir pleistecia a las novisimas estrellas del partido  <a href="https://es.wikipedia.org/wiki/Santiago_Abascal_Conde" target="_blank" >Vox </a> <br />Todos estan de acuerdo en el regreso de los Borbones.<br />El unico punto de debate es: como?</p> 
+<h4><a href="/signos/acuario.html" > Smith#1 </a></h4>
+<p>&nbsp;&nbsp;&nbsp;On March 10, 2023, the Saudi monarchy and the Republic of Iran reached a peace agreement with Chinese mediation.<br /> Despite constant accusations of human rights violations within his reactionary society, the <a href="https://en.wikipedia.org/wiki/Mohammed_bin_Salman" target="_blank" >crown prince </a> <br />manages to gain unexpected alliances thanks to his bag full of money.</p> 
 </div> 
 
 <div>
