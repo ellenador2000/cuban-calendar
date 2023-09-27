@@ -181,7 +181,7 @@ $(document).ready(function() {
 
 <div class="zodiacoright">
 <h4><a href="/signos/libra.html" > Smith#8 </a></h4>
-<p>El 1 de enero de 1959,<a href="http://es.wikipedia.org/wiki/Fidel_Castro" target="_blank"> Fidel Castro </a>tomo el control <br />del&nbsp;poder en Cuba e implanto un sistema dictatorial que <br />se ha mantenido intacto por mas de 50 años.<br /> Medio siglo es mas que suficiente para probar un <br />hecho historico consumado.</p>
+<p>El blog de Yoani Sanchez fue bastante popular desde el año 2008 hasta alrededor del 2013 cuando abruptamente empezo a perder interes. Si el gobierno cubano no esta acusandola de ser financiada por <a href="https://en.wikipedia.org/wiki/George_Soros" target="_blank"> George Soros</a>, debe ser porque en Cuba la CIA es mas popular que el fundador de Quantum Fund  y de la Open Society.</p>
 </div>
 
 <div class="planetas">
@@ -212,7 +212,7 @@ $(document).ready(function() {
 
 <div class="zodiacoright">
 <h4><a href="/signos/sagitario.html" > Smith#4 </a></h4>
-<p>&nbsp;&nbsp;&nbsp;El blog de Yoani Sanchez fue bastante popular desde el año 2008 hasta alrededor del 2013 cuando abruptamente empezo a perder interes. Si el gobierno cubano no esta acusandola de ser financiada por <a href="https://es.wikipedia.org/wiki/George_Soros" target="_blank"> George Soros</a>, debe ser porque en Cuba la CIA es mas popular que el fundador de Quantum Fund  y de la Open Society. </p>
+<p>&nbsp;&nbsp;&nbsp;These days it is very fashionable into far-right circles to call "Communist" anyone who thinks differently from them.<br />However, according to our personal files, the only one in the showbiz who could properly call himself in that way would be<a href="https://en.wikipedia.org/wiki/Kim_Jong_Un" target="_blank"> Kim </a> ,the Rocketman.</p>
 </div>
 
 <div class="planetas">
