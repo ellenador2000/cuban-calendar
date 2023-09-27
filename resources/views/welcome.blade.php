@@ -156,7 +156,7 @@ $(document).ready(function() {
 
 <div class="zodiacoright">
 <h4><a href="/signos/virgo.html" > Smith#10 </a></h4>
-<p>&nbsp;&nbsp;&nbsp;"La era esta pariendo un corazon,no puede mas se <br />muere de dolor..."<br />De tanto darle a la lata la era finalmente pario.<br />Pero no exactamente lo que en los romanticos sesentas soñara <a href="http://es.wikipedia.org/wiki/Silvio_Rodriguez" target="_blank"> Silvio</a>,sino al reves.Como cuando el lado izquierdo del cerebro controla el lado derecho del cuerpo y viceversa.</p>
+<p>&nbsp;&nbsp;&nbsp;On December 8, 1980, English singer-songwriter <a href="https://en.wikipedia.org/wiki/John_Lennon"> John Lennon</a> was murdered by a fan outside the Dakota building, a few blocks from Central Park, New York City.</p>
 </div>
 
 <script type="text/javascript" >
